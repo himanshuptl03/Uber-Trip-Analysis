@@ -43,17 +43,18 @@ are not easy to answer without structured analytics.
 
 To provide an interactive analytical tool that:
 
-Gives a clear overview of Uber’s booking and revenue performance
+Gives a clear overview of Uber’s booking and revenue performance.
 
-Analyzes demand by time, day, and hour
+Analyzes demand by time, day, and hour.
 
-Compares vehicle types and payment methods
+Compares vehicle types and payment methods.
 
-Helps support operational planning and data-driven decisions
+Helps support operational planning and data-driven decisions.
 
 •  Walkthrough of Key Visuals
 
--  Key KPIs (Top Section)
+-  Key KPIs (Top Section)<br>
+
 Displays overall business performance including Total Bookings: 103.7K
 Total Booking Value: 1.6M<br>
 Average Booking Value:$15.0<br>
@@ -61,22 +62,25 @@ Total Trip Distance: 349K miles<br>
 Average Trip Distance: 3 miles<br>
 These KPIs provide a quick summary of booking volume, revenue, and trip efficiency.
 
--  Bookings by Payment Type (Donut Chart)
+-  Bookings by Payment Type (Donut Chart)<br>
+
 Shows the distribution of total bookings across different payment methods such as Uber Pay, Cash, Amazon Pay, and Google Pay, helping understand customer payment preferences.
 
--  Day vs Night Trips (Donut Chart)
+-  Day vs Night Trips (Donut Chart)<br>
+
 Compares trip volume between daytime and nighttime travel, highlighting how demand varies across different parts of the day.
 
--  Total Booking Value by Day (Area Chart)
+-  Total Booking Value by Day (Area Chart)<br>
+
 Visualizes daily revenue trends over the selected date range, helping identify peak and low-performing days.
 
--  Time Analysis (Line Chart & Heatmap)
+-  Time Analysis (Line Chart & Heatmap)<br>
 Analyzes bookings by hour and day of the week to identify peak demand periods and travel patterns throughout the week.
 
--  Vehicle Type Analysis (Table)
+-  Vehicle Type Analysis (Table)<br>
 Compares different Uber vehicle categories based on total bookings, total booking value, average booking value, and total trip distance, helping evaluate vehicle performance.
 
--  Trip-Level Detail Table
+-  Trip-Level Detail Table<br>
 Displays individual trip records including pickup time, vehicle type, payment method, distance, and booking value to support drill-down analysis and data validation.
 
 •  Business Impact & Insights
