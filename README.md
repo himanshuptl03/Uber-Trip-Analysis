@@ -1,5 +1,4 @@
-
-###1. 🚖 Uber Trip Analysis Dashboard
+### 1. 🚖 Uber Trip Analysis Dashboard
 
 An interactive Power BI dashboard built to analyze Uber trip data—focusing on bookings, revenue, trip distance, time-based demand, payment behavior, vehicle performance, and location insights.
 
