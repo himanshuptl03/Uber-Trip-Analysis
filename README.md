@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard built to analyze Uber trip data focusing on bookings, revenue, trip distance, time-based demand, payment behavior, vehicle performance, and location insights.
 
-### 2. Short Description / Purpose
+### 2. Purpose
 
 The Uber Trip Analysis Dashboard is a visually engaging Power BI report designed to analyze ride bookings across different time periods, vehicle types, payment methods, and locations.
 This dashboard helps understand travel patterns, peak demand hours, revenue trends, and operational performance, making it useful for business analysts, operations teams, and data-driven decision makers.
@@ -22,7 +22,7 @@ Source: Kaggle – Uber Trip Dataset
 
 The dataset contains detailed trip-level information including booking date and time, vehicle type, payment method, passenger count, trip distance, booking value, and pickup locations, enabling both high-level and detailed analysis of Uber ride activity.
 
-### 5. Features / Highlights
+### 5. Features 
 •  Business Problem
 
 Ride-hailing platforms like Uber generate large volumes of trip data, but raw data alone makes it difficult to quickly understand booking trends, peak hours, revenue performance, and customer behavior across time and locations.<br>
@@ -46,7 +46,6 @@ Helps support operational planning and data-driven decisions.
 -  Key KPIs (Top Section)<br>
 
 Displays overall business performance including Total Bookings: 103.7K<br>
-
 Total Booking Value: 1.6M<br>
 Average Booking Value:$15.0<br>
 Total Trip Distance: 349K miles<br>
@@ -81,8 +80,9 @@ Supports revenue and pricing strategy through booking and value trend analysis.<
 Improves operational planning by understanding time-based and location-based demand.<br>
 Enables data-driven decision-making using clear, interactive, and detailed visuals.
 
-### 6.	Screenshots / Demos
-Example: ![Dashboard Preview](https://github.com/himanshuptl03/Uber-Trip-Analysis/blob/main/Uber%20Dashboard_P1.png)
+### 6.	Demos
+
+![Dashboard Preview](https://github.com/himanshuptl03/Uber-Trip-Analysis/blob/main/Uber%20Dashboard_P1.png)
 
 
 
