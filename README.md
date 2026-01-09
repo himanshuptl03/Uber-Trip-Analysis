@@ -25,21 +25,20 @@ The dataset contains detailed trip-level information including booking date and 
 ### 5. Features / Highlights
 •  Business Problem
 
-Ride-hailing platforms like Uber generate large volumes of trip data, but raw data alone makes it difficult to quickly understand booking trends, peak hours, revenue performance, and customer behavior across time and locations.
-
-Key questions such as:
-When do most bookings occur?
-Which vehicle types generate more revenue?
-What payment methods are most commonly used?
-Which locations and time slots drive demand?
+Ride-hailing platforms like Uber generate large volumes of trip data, but raw data alone makes it difficult to quickly understand booking trends, peak hours, revenue performance, and customer behavior across time and locations.<br>
+Key questions such as:<br>
+When do most bookings occur?<br>
+Which vehicle types generate more revenue?<br>
+What payment methods are most commonly used?<br>
+Which locations and time slots drive demand?<br>
 are not easy to answer without structured analytics.
 
 •  Goal of the Dashboard
 
-To provide an interactive analytical tool that:
-Gives a clear overview of Uber’s booking and revenue performance.
-Analyzes demand by time, day, and hour.
-Compares vehicle types and payment methods.
+To provide an interactive analytical tool that:<br>
+Gives a clear overview of Uber’s booking and revenue performance.<br>
+Analyzes demand by time, day, and hour.<br>
+Compares vehicle types and payment methods.<br>
 Helps support operational planning and data-driven decisions.
 
 •  Walkthrough of Key Visuals
@@ -76,9 +75,9 @@ Displays individual trip records including pickup time, vehicle type, payment me
 
 •  Business Impact & Insights
 
-Helps identify peak booking hours and high-demand days for better driver allocation.
-Supports revenue and pricing strategy through booking and value trend analysis.
-Improves operational planning by understanding time-based and location-based demand.
+Helps identify peak booking hours and high-demand days for better driver allocation.<br>
+Supports revenue and pricing strategy through booking and value trend analysis.<br>
+Improves operational planning by understanding time-based and location-based demand.<br>
 Enables data-driven decision-making using clear, interactive, and detailed visuals.
 
 ### 6.	Screenshots / Demos
