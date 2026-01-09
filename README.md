@@ -2,12 +2,12 @@
 
 An interactive Power BI dashboard built to analyze Uber trip data—focusing on bookings, revenue, trip distance, time-based demand, payment behavior, vehicle performance, and location insights.
 
-###2. Short Description / Purpose
+### 2. Short Description / Purpose
 
 The Uber Trip Analysis Dashboard is a visually engaging Power BI report designed to analyze ride bookings across different time periods, vehicle types, payment methods, and locations.
 This dashboard helps understand travel patterns, peak demand hours, revenue trends, and operational performance, making it useful for business analysts, operations teams, and data-driven decision makers.
 
-###3. Tech Stack
+### 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:<br>
 •  📊 Power BI Desktop – Used to design and develop interactive reports.<br>
@@ -16,13 +16,13 @@ The dashboard was built using the following tools and technologies:<br>
 •  📝 Data Modeling – Relationships created across trip, vehicle, and location data.<br>
 •  📁 File Format – .pbix for development and .png for dashboard previews.
 
-###4. Data Source
+### 4. Data Source
 
 Source: Kaggle – Uber Trip Dataset
 
 The dataset contains detailed trip-level information including booking date and time, vehicle type, payment method, passenger count, trip distance, booking value, and pickup locations, enabling both high-level and detailed analysis of Uber ride activity.
 
-###5. Features / Highlights
+### 5. Features / Highlights
 •  Business Problem
 
 Ride-hailing platforms like Uber generate large volumes of trip data, but raw data alone makes it difficult to quickly understand booking trends, peak hours, revenue performance, and customer behavior across time and locations.
@@ -87,7 +87,6 @@ Improves operational planning by understanding time-based and location-based dem
 Enables data-driven decision-making using clear, interactive, and detailed visuals.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
 Example: ![Dashboard Preview](https://github.com/himanshuptl03/Uber-Trip-Analysis/blob/main/Uber%20Dashboard_P1.png)
 
 
