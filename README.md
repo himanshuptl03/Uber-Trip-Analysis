@@ -55,10 +55,10 @@ Helps support operational planning and data-driven decisions
 
 -  Key KPIs (Top Section)
 Displays overall business performance including Total Bookings: 103.7K
-Total Booking Value: 1.6M
-Average Booking Value:$15.0
-Total Trip Distance: 349K miles
-Average Trip Distance: 3 miles
+Total Booking Value: 1.6M<br>
+Average Booking Value:$15.0<br>
+Total Trip Distance: 349K miles<br>
+Average Trip Distance: 3 miles<br>
 These KPIs provide a quick summary of booking volume, revenue, and trip efficiency.
 
 -  Bookings by Payment Type (Donut Chart)
