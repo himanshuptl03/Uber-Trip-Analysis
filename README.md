@@ -30,25 +30,17 @@ Ride-hailing platforms like Uber generate large volumes of trip data, but raw da
 Key questions such as:
 
 When do most bookings occur?
-
 Which vehicle types generate more revenue?
-
 What payment methods are most commonly used?
-
 Which locations and time slots drive demand?
-
 are not easy to answer without structured analytics.
 
 •  Goal of the Dashboard
 
 To provide an interactive analytical tool that:
-
 Gives a clear overview of Uber’s booking and revenue performance.
-
 Analyzes demand by time, day, and hour.
-
 Compares vehicle types and payment methods.
-
 Helps support operational planning and data-driven decisions.
 
 •  Walkthrough of Key Visuals
@@ -96,15 +88,3 @@ Example: ![Dashboard Preview](https://github.com/himanshuptl03/Uber-Trip-Analysi
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-6. Screenshots / Demos
